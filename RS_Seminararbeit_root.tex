@@ -1,0 +1,60 @@
+\input{_SETTINGS.tex}
+
+%===========================================================================
+
+\title{Fallstudie \textit{17A-Bank}: Architekturprozess} 
+\author{Fionn Fuchs\\Oliver Rudzinski}
+\date{12. Mai 2020}
+
+%===========================================================================
+
+\begin{document}
+\makeatletter
+\selectlanguage{ngerman}
+
+%===========================================================================
+%	FRONT MATTER
+%===========================================================================
+
+	\clearpage
+	\input{front-matter/0_Deckblatt.tex}
+	\thispagestyle{empty}
+	
+	\pagenumbering{roman}
+	
+	\tableofcontents
+	
+%===========================================================================
+%	MAIN MATTER
+%===========================================================================
+	
+	\chapter{Einleitung}
+		\pagenumbering{arabic}
+		\label{chap:einleitung}
+		\input{main-matter/1_Einleitung}
+	
+	\chapter{Lösungserarbeitung}
+		\input{main-matter/2_Loesung.tex}
+		
+	\chapter{Einbettung des Lösungsvorschlages}
+		\input{main-matter/3_Einbettung.tex}
+		
+	\chapter{Zusammenfassung und Ausblick}
+		\input{main-matter/Zusammenfassung.tex}
+	
+%===========================================================================
+%	BACK MATTER
+%===========================================================================
+
+	\clearpage
+	\pagestyle{plain}
+	\pagenumbering{alph}
+	\printbibliography
+	
+	\appendix
+		\pagestyle{plain}
+		\input{back-matter/checkliste.tex}
+
+	
+	
+\end{document}
