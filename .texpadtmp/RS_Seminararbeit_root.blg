@@ -1,17 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
-[0] Config.pm:307> INFO - Logfile is '/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/RS_Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.blg'
-[40] biber-darwin:315> INFO - === Wed Apr 29, 2020, 17:21:29
-[61] Biber.pm:371> INFO - Reading '/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/RS_Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bcf'
-[163] Biber.pm:889> INFO - Found 4 citekeys in bib section 0
-[175] Biber.pm:4093> INFO - Processing section 0
-[185] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/RS_Rechnersysteme/RS_Seminararbeit/back-matter/literature.bib' for section 0
-[186] bibtex.pm:1523> INFO - LaTeX decoding ...
-[194] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/RS_Rechnersysteme/RS_Seminararbeit/back-matter/literature.bib'
-[218] Utils.pm:193> WARN - ISBN '1-947754-11-9' in entry 'TOGAFDocs' is invalid - run biber with '--validate_datamodel' for details.
-[231] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[231] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[231] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[231] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[237] bbl.pm:636> INFO - Writing '/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/RS_Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bbl' with encoding 'UTF-8'
-[239] bbl.pm:739> INFO - Output to /Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/RS_Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bbl
-[239] Biber.pm:110> INFO - WARNINGS: 1
+[0] Config.pm:307> INFO - Logfile is '/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.blg'
+[37] biber-darwin:315> INFO - === Sat May  2, 2020, 09:27:30
+[58] Biber.pm:371> INFO - Reading '/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bcf'
+[153] Biber.pm:889> INFO - Found 4 citekeys in bib section 0
+[165] Biber.pm:4093> INFO - Processing section 0
+[174] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/back-matter/literature.bib' for section 0
+[176] bibtex.pm:1523> INFO - LaTeX decoding ...
+[190] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/back-matter/literature.bib'
+[213] Utils.pm:193> WARN - ISBN '1-947754-11-9' in entry 'TOGAFDocs' is invalid - run biber with '--validate_datamodel' for details.
+[228] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[228] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[228] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[228] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[235] bbl.pm:636> INFO - Writing '/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bbl' with encoding 'UTF-8'
+[236] bbl.pm:739> INFO - Output to /Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bbl
+[237] Biber.pm:110> INFO - WARNINGS: 1
