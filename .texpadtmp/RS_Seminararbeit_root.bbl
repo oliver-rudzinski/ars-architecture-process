@@ -118,6 +118,80 @@
       \verb https://circle.visual-paradigm.com/docs/togaf-adm-guide-through/
       \endverb
     \endentry
+    \entry{datacenter-architecture}{article}{}
+      \list{publisher}{1}{%
+        {Datacenter Dynamics}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Why the datacenter needs a new architecture}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.datacenterdynamics.com/en/opinions/why-the-data-center-needs-a-new-architecture/
+      \endverb
+      \verb{url}
+      \verb https://www.datacenterdynamics.com/en/opinions/why-the-data-center-needs-a-new-architecture/
+      \endverb
+    \endentry
+    \entry{governance-approach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b79fbecf44fededcb1018c1e4ac7113f}{%
+           family={Brooks},
+           familyi={B\bibinitperiod},
+           given={Tyson},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Architecture}%
+        {Governance Magazine}%
+      }
+      \strng{namehash}{b79fbecf44fededcb1018c1e4ac7113f}
+      \strng{fullhash}{b79fbecf44fededcb1018c1e4ac7113f}
+      \strng{bibnamehash}{b79fbecf44fededcb1018c1e4ac7113f}
+      \strng{authorbibnamehash}{b79fbecf44fededcb1018c1e4ac7113f}
+      \strng{authornamehash}{b79fbecf44fededcb1018c1e4ac7113f}
+      \strng{authorfullhash}{b79fbecf44fededcb1018c1e4ac7113f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Enterprise Architecture Governance: A Framework Approach}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/279951524
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/279951524
+      \endverb
+    \endentry
+    \entry{exception-governance}{article}{}
+      \list{publisher}{3}{%
+        {International Scholarly}%
+        {Scientific Research}%
+        {Innovation}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{title}{{Architecture Exception Governance}}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb scholar.waset.org/1307-6892/8841
+      \endverb
+      \verb{url}
+      \verb scholar.waset.org/1307-6892/8841
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

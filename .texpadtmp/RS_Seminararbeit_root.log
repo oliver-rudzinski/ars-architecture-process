@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.10)  2 MAY 2020 09:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.10)  8 MAY 2020 11:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -917,7 +917,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count316
 \@quotereset=\count317
-(/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.aux)
+(/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.aux)
 \openout1 = `RS_Seminararbeit_root.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -992,7 +992,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'RS_Seminararbeit_root.bbl' found.
-(/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bbl)
+(/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.bbl)
 Package biblatex Info: Reference section=0 on input line 11.
 Package biblatex Info: Reference segment=0 on input line 11.
  (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1036,7 +1036,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
- (/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.out) (/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.out)
+ (/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.out) (/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.out)
 \@outlinefile=\write4
 \openout4 = `RS_Seminararbeit_root.out'.
 
@@ -1087,7 +1087,7 @@ LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
 ) [1
 
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_dhbw.png>] (/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.toc)
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_dhbw.png>] (/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.toc)
 \tf@toc=\write5
 \openout5 = `RS_Seminararbeit_root.toc'.
 
@@ -1123,14 +1123,14 @@ Package scrlayer-scrpage Warning: \footheight to low.
 chapter 1.
 (./main-matter/1_Einleitung.tex) [1
 
-] [2]
+]
 chapter 2.
 (./main-matter/2_Loesung.tex (./main-matter/2-1_Analyse_TOGAF.tex
 Overfull \hbox (8.26077pt too wide) in paragraph at lines 1--2
 \OT1/cmr/m/n/10.95 se sich auf die Busi-nessan-for-de-run-gen mit spe-zi-el-len Fo-kus auf die ge-genw[]artigen Gesch[]aftsprozesse
  []
 
-<img/togaf_adm.png, id=58, 581.17125pt x 580.1675pt>
+<img/togaf_adm.png, id=53, 581.17125pt x 580.1675pt>
 File: img/togaf_adm.png Graphic file (type png)
 <use img/togaf_adm.png>
 Package pdftex.def Info: img/togaf_adm.png  used on input line 11.
@@ -1138,34 +1138,39 @@ Package pdftex.def Info: img/togaf_adm.png  used on input line 11.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3
+[2
 
-] [4 <./img/togaf_adm.png>]) (./main-matter/2-2_Migrations-Checkliste.tex [5]
+] [3 <./img/togaf_adm.png>]) (./main-matter/2-2_Migrations-Checkliste.tex [4]
 Overfull \hbox (4.86943pt too wide) in paragraph at lines 13--14
 \OT1/cmr/m/n/10.95 Punk-te sehr ab-strakt for-mu-liert. Um die Prio-ri-sie-rung den-noch vollf[]uhren zu k[]onnen, un-terst[]utzen
  []
 
 ) (./main-matter/2-3_Governance.tex
-<img/governance.png, id=88, 2394.9475pt x 1401.235pt>
+<img/governance.png, id=84, 2394.9475pt x 1401.235pt>
 File: img/governance.png Graphic file (type png)
 <use img/governance.png>
 Package pdftex.def Info: img/governance.png  used on input line 9.
 (pdftex.def)             Requested size: 455.24411pt x 266.34433pt.
- [6]) (./main-matter/2-4_Ausnahmegenehmigungen.tex [7 <./img/governance.png>]))
-Overfull \hbox (8.54974pt too wide) in paragraph at lines 9--38
+ [5]) (./main-matter/2-4_Ausnahmegenehmigungen.tex [6 <./img/governance.png>]))
+Overfull \hbox (8.54974pt too wide) in paragraph at lines 19--38
 []\OT1/cmr/m/n/10.95 Regel: An-wen-dun-gen d[]urfen, wenn []uberhaupt, nur tem-por[]ar oh-ne er-folg-rei-che Com-plian-ce Pr[]ufung
  []
 
-[8]
+[7]
 chapter 3.
-(./main-matter/3_Einbettung.tex) [9
+(./main-matter/3_Einbettung.tex) [8
 
 ]
 chapter 4.
-(./main-matter/Zusammenfassung.tex) [10
+(./main-matter/Zusammenfassung.tex) [9
 
 ]
 chapter without number
+
+Overfull \hbox (6.18646pt too wide) in paragraph at lines 53--53
+[]\OT1/cmr/m/n/10.95 ``Why the da-ta-cen-ter needs a new ar-chi-tec-ture'', Adres-se: []$\OT1/zi4/m/n/10.95 https : / / www . datacenterdynamics .
+ []
+
 (./back-matter/checkliste.tex [1
 
 
@@ -1177,7 +1182,7 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
- (/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.aux)
+ (/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `RS_Seminararbeit_root.out' has not changed.
@@ -1191,18 +1196,18 @@ Package logreq Info: Writing requests to 'RS_Seminararbeit_root.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20871 strings out of 492616
- 388296 string characters out of 6129481
+ 20887 strings out of 492616
+ 389898 string characters out of 6129481
  1003852 words of memory out of 5000000
- 24407 multiletter control sequences out of 15000+600000
+ 24416 multiletter control sequences out of 15000+600000
  13630 words of font info for 50 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  60i,19n,80p,9122b,2294s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on "/Users/oliver/Desktop/Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.pdf" (14 pages, 396717 bytes).
+Output written on "/Users/oliver/Library/Mobile Documents/com~apple~CloudDocs/B.Sc. Computer Science/_Semester VI/_Seminararbeiten/2020-05-12 Rechnersysteme/RS_Seminararbeit/.texpadtmp/RS_Seminararbeit_root.pdf" (13 pages, 398210 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
