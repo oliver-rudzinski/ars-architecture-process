@@ -4,19 +4,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}L\IeC {\"o}sungserarbeitung}{3}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}L\IeC {\"o}sungserarbeitung}{2}{chapter.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Analyse: \textit {TOGAF} Architekturmethode}{3}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Analyse: \textit {TOGAF} Architekturmethode}{2}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Migrations-Checkliste f\IeC {\"u}r Application Owner}{5}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Migrations-Checkliste f\IeC {\"u}r Application Owner}{4}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Architecture Governance}{6}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Architecture Governance}{5}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Vergabe von Ausnahmegenehmigungen}{7}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Vergabe von Ausnahmegenehmigungen}{6}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Einbettung des L\IeC {\"o}sungsvorschlages}{9}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Einbettung des L\IeC {\"o}sungsvorschlages}{8}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{10}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{9}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Literatur}{a}{chapter*.4}% 
 \defcounter {refsection}{0}\relax 

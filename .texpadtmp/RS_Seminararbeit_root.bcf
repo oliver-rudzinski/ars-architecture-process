@@ -2010,6 +2010,9 @@
     <bcf:citekey order="12">VisualParadigmTOGAF</bcf:citekey>
     <bcf:citekey order="13">TOGAFDocs</bcf:citekey>
     <bcf:citekey order="14">VisualParadigmTOGAF</bcf:citekey>
+    <bcf:citekey order="15">datacenter-architecture</bcf:citekey>
+    <bcf:citekey order="16">governance-approach</bcf:citekey>
+    <bcf:citekey order="17">exception-governance</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
